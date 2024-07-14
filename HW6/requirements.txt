@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+joblib
+torch
+matplotlib
+matplotlib-inline
+seaborn
+optuna
+ipython
+ipython-autotime
+jupyterlab
